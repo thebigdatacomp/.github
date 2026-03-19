@@ -37,5 +37,3 @@ Join us on our mission to unlock the power of data! Whether you're looking to en
 Thank you for visiting our GitHub page. Explore our repositories to see our team's expert craftsmanship in action. 👨‍💻👩‍💻
 
 --- 
-
-Feel free to adjust any section as needed to suit your specific goals and target audience.
